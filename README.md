@@ -5,3 +5,6 @@ Description of the project:
 	
 	
 Ran on Google Colab
+
+You have to change the path names to link to the dataset below.
+Dataset https://drive.google.com/open?id=1Kmuh49PwVUIEVaL-kgWnNxDoUXVaCR9O
