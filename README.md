@@ -6,5 +6,5 @@ Description of the project:
 	
 Ran on Google Colab
 
-You have to change the path names to link to the dataset below.
+You have to change the path names to link to the dataset below.  The preview may not show the die, but if you click on the picture the die will be in there.
 Dataset https://drive.google.com/open?id=1Kmuh49PwVUIEVaL-kgWnNxDoUXVaCR9O
